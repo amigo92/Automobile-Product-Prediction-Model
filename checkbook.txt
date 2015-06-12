@@ -1,0 +1,1293 @@
+Name : Deep Moradia 
+Ph Number : 9429472200 
+Address : Flaaat 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : Abhishek 
+Ph Number : 7405279464 
+Address : Flat Only 
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name :  
+Ph Number :  
+Address :  
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name :  
+Ph Number :  
+Address :  
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : ok 
+Ph Number : 92 
+Address : kn 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : das 
+Ph Number : sfas 
+Address : dsfasf 
+Gender : Female 
+age>30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : deep 
+Ph Number : dd 
+Address : kk 
+Gender : Female 
+age>30 
+Income:30k-50k 
+Number of Family Members:>4 
+Student 
+
+
+Name : hkhj 
+Ph Number : khkh 
+Address : khkh 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : jnj 
+Ph Number : kk 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : ,nj 
+Ph Number : j,n 
+Address : kjk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jsdnkdj 
+Ph Number : kjdkjd 
+Address : kjasdjn 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : hsfbfhs 
+Ph Number : khbbsk 
+Address : sesbfks 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : ,fjgnkf  
+Ph Number : jnsdkj 
+Address : nfd, 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : dfjgdb 
+Ph Number : li,drthkgd 
+Address : sef,jhfd 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : j 
+Ph Number : b 
+Address : ln 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : jhk 
+Ph Number : kjkh 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : xgdf` 
+Ph Number : jbk 
+Address : kbbk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : sda 
+Ph Number : asd 
+Address : kugk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : bngm 
+Ph Number : gjh 
+Address : h,k 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hgvh 
+Ph Number : hmhvb 
+Address : vhgnv 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Student 
+
+
+Name : hvj 
+Ph Number : bjbgkk 
+Address : kbkvk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : iyh 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkj 
+Ph Number : kjkj 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jb 
+Ph Number : hjhj 
+Address : jhhj 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hh 
+Ph Number : hjhj 
+Address : hjj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hh 
+Ph Number : khk 
+Address : kjklj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkj 
+Ph Number : kjjk 
+Address : kjkj 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jhhj 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkj 
+Ph Number : kjjk 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kn 
+Ph Number : kjkj 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hhjhj 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjhj 
+Ph Number : hjhj 
+Address : jhhj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hhjhj 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjjhdhjsd 
+Ph Number : hjhsdjhds 
+Address : hashjsa 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : Alid 
+Ph Number : dksbf  
+Address : klnda 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : hhj 
+Ph Number : hjhj 
+Address : hhj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjhj 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hhhj 
+Ph Number : jhjh 
+Address : hjhj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkj 
+Ph Number : kjkj 
+Address : kjkj 
+Gender : Male 
+age>30 
+Income:>50k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : hhj 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : ghg 
+Ph Number : ghgh 
+Address : ghgh 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjhj 
+Ph Number : hjhj 
+Address : hjjh 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hjhj 
+Ph Number : hjhj 
+Address : hjjhjh 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : uiuiu 
+Ph Number : iuiuiu 
+Address : iuiuiu 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jjk 
+Ph Number : jkjk 
+Address : kjkj 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : kjj 
+Ph Number : jkjk 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkjk 
+Ph Number : jkjk 
+Address : kjkjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : kjjk 
+Ph Number : kjkjk 
+Address : jjkjk 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Student 
+
+
+Name : klkl 
+Ph Number : lklk 
+Address : lklk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjjh 
+Ph Number : hjhj 
+Address : hjhj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : lljjjk 
+Ph Number : jkkjjk 
+Address : jkjk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kjkj 
+Ph Number : jkjk 
+Address : kjjk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kkllk 
+Ph Number : kkllk 
+Address : kkl 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : ok 
+Ph Number : ok 
+Address : ok 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jjjk 
+Ph Number : kjkjj 
+Address : jkjkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : jkjk 
+Ph Number : kjkjkj 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jjkkj 
+Ph Number : kjjkkj 
+Address : kjkkj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkkj 
+Ph Number : jkkj 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkj 
+Ph Number : jkjk 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k Name : jkkj 
+Ph Number : jkjk 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : jkkj 
+Ph Number : kjjkj 
+Address : kjkjk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkjkj 
+Ph Number : kjjkkjjjj 
+Address : jjkkj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : kkllk 
+Ph Number : lkklkl 
+Address : klkl 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Student 
+
+
+Name : jkjkj 
+Ph Number : jkjkjk 
+Address : jkjk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kjkj 
+Ph Number : kjjk 
+Address : jkjk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkj 
+Ph Number : kjjkjk 
+Address : jkj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkkj 
+Ph Number : kjjk 
+Address : jkjkjk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : jk 
+Ph Number : kjjkjk 
+Address : kjjk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkjkj 
+Ph Number : kjkjkj 
+Address : kjkjjk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkj 
+Ph Number : kjkjjk 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkjkj 
+Ph Number : kjjkjkjk 
+Address : kjkjjkjk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkjk 
+Ph Number : kjkjkj 
+Address : jkjkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : mkj 
+Ph Number : kjkjkj 
+Address : kjkjjk 
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkjk 
+Ph Number : oppo 
+Address : oopopol 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : ,mj 
+Ph Number : lll 
+Address : k 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkjkJKKJJKjkjk 
+Ph Number : kjjk 
+Address : jkjk 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jjj 
+Ph Number : jkjkj 
+Address : kjkj 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkj 
+Ph Number : kkjkjjk 
+Address : kjjkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kklkl 
+Ph Number : klklkl 
+Address : klkllk 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : jjjk 
+Ph Number : kjkj 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : njkjk 
+Ph Number : kjkjjk 
+Address : kjkjkj 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hhjjhj 
+Ph Number : hjhjhj 
+Address : hh 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : ,jkk 
+Ph Number : kjkkjjk 
+Address : jkjk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jjjk 
+Ph Number : eerr 
+Address : ereer 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jkdskjds 
+Ph Number : kjwekjwekkj 
+Address : jkwekjweekj 
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : hjhj 
+Ph Number : hjhj 
+Address : hjjhhjh 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jj 
+Ph Number : j 
+Address : jjj 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : jkj 
+Ph Number : kjk 
+Address : kkjkj 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kjkj 
+Ph Number : jkjk 
+Address : jjkj 
+Gender : Male 
+age>30 
+Income:15k-30k 
+Number of Family Members:>4 
+Occupation:Business 
+
+
+Name : jkjkj 
+Ph Number : jjk 
+Address : kjjkj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : ggh 
+Ph Number : ffgf 
+Address : fgfgf` 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hjj 
+Ph Number : hhjhj 
+Address : hjjhh 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hjj 
+Ph Number : hhjhj 
+Address : hjhj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkkj 
+Ph Number : jkjk 
+Address : jkkjkj 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjh 
+Ph Number : jhhjh 
+Address : jhjhjhj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jjk 
+Ph Number : kjkjk 
+Address : jkjkj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkjkj 
+Ph Number : kjjkjk 
+Address : kjjkj 
+Gender : Female 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : jkjk 
+Ph Number : kjkj 
+Address : jkkj 
+Gender : Female 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : kkkl 
+Ph Number : klkl 
+Address : lklk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : jkj 
+Ph Number : jkj 
+Address : kjkj 
+Gender : Male 
+age>30 
+Income:>50k 
+Number of Family Members:<=4 
+Student 
+
+
+Name : jkjk 
+Ph Number : kjkjkj 
+Address : kjkj 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : jkjsdkjjk 
+Ph Number : kjkj 
+Address : kjjk 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : kj 
+Ph Number : d 
+Address : lkk 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : hjh 
+Ph Number : jhj 
+Address : hjh 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hjsjhsdhj 
+Ph Number : jhdsjhd 
+Address : djsdh 
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jjkkj 
+Ph Number : kjj 
+Address : kkjk 
+Gender : Male 
+age 20-30 
+Income:>50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : kjkj 
+Ph Number : jkkj 
+Address : jkkj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hj 
+Ph Number : hjh 
+Address : hj 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : iii``iio 
+Ph Number : ii 
+Address : i 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : jhjh 
+Ph Number : lil 
+Address : jjh 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : dsds 
+Ph Number : qwwq 
+Address : dds 
+Gender : Male 
+age>30 
+Income:30k-50k 
+Number of Family Members:>4 
+Professional 
+
+
+Name : dfd 
+Ph Number : wewewe 
+Address : reery 
+Gender : Male 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
+Name : hhj 
+Ph Number : jhhjhj 
+Address : hjjhj 
+Gender : Male 
+age 20-30 
+Income:30k-50k 
+Number of Family Members:<=4 
+Professional 
+
+
+Name : Deep 
+Ph Number : Moradia 
+Address : abcd 
+Age: 20-30 
+Gender: Female 
+Occupation:Dependent 
+Income:60k-75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? Yes 
+
+
+Name : kdjvbk 
+Ph Number : KJKJ 
+Address : KJKJ 
+Age: 30-50 
+Gender: Female 
+Occupation:Dependent 
+Income:60k-75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? Yes 
+
+
+Name : hhj 
+Ph Number : hjjh 
+Address : jhjh 
+Age: 20-30 
+Gender: Female 
+Occupation: Business 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? Yes 
+
+
+Name : hkj 
+Ph Number : kjkj 
+Address : kjkj 
+Age: 20-30 
+Gender: Female 
+Occupation:Dependent 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? Yes 
+
+
+Name : hh 
+Ph Number : hjhjj 
+Address : hjh 
+Age: 20-30 
+Gender: Female 
+Occupation:Dependent 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : fgfg 
+Ph Number : bbn 
+Address : bbn 
+Age: >50 
+Gender: Female 
+Occupation: Professional 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : ghgh 
+Ph Number : ghgh 
+Address : ghhg 
+Age: >50 
+Gender: Female 
+Occupation: Professional 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : hjjh`` 
+Ph Number : hhjjh 
+Address : hjhj 
+Age: >50 
+Gender: Female 
+Occupation: Professional 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : hj 
+Ph Number : hjhjjh 
+Address : hjhj 
+Age: >50 
+Gender: Female 
+Occupation: Professional 
+Income: >75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : hjh 
+Ph Number : hjh 
+Address : hj 
+Age: 20-30 
+Gender: Male 
+Occupation: Professional 
+Income:35k-45k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : Deep 
+Ph Number : ok 
+Address : ok 
+Age: 20-30 
+Gender: Male 
+Occupation: Professional 
+Income:45k-60k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : Deep 
+Ph Number : Moradia  
+Address : asdasdas 
+Age: 20-30 
+Gender: Female 
+Occupation: Business 
+Income:60k-75k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : jjk 
+Ph Number : kjjk 
+Address : jkkj 
+Age: 30-50 
+Gender: Female 
+Occupation: Professional 
+Income:25k-35k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+
+Name : hjj 
+Ph Number : hhjjh 
+Address : hjhj 
+Age: 20-30 
+Gender: Female 
+Occupation: Business 
+Income:25k-35k 
+Number of Family Members:<=4 
+Credit Amount: Low 
+2nd Car? No 
+
+

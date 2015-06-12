@@ -1,0 +1,10 @@
+Name :  
+Ph Number :  
+Address :  
+Gender : Female 
+age 20-30 
+Income:15k-30k 
+Number of Family Members:<=4 
+Occupation:Business 
+
+
